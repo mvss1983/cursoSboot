@@ -1,0 +1,19 @@
+
+[
+
+	{"id":null,
+		"titulo":"Dúvida",
+		"mensagem":"Dúvida com spring",
+		"dataCriacao":"2020-03-02T22:42:44.68",
+		"status":"NAO_RESPONDIDO",
+		"autor":null,"curso":{"id":null,"nome":"Spring","categoria":"Programação"},
+		"respostas":[]
+	},
+	
+	{"id":null,"titulo":"Dúvida","mensagem":"Dúvida com spring
+	","dataCriacao":"2020-03-02T22:42:44.68","status":"NAO_RESPONDIDO","autor":null,"curso":{"id":null,"nome":"Spring","categoria":"Programação"},"respostas":[]},
+	
+	{"id":null,"titulo":"Dúvida","mensagem":"Dúvida com spring
+	","dataCriacao":"2020-03-02T22:42:44.68","status":"NAO_RESPONDIDO","autor":null,"curso":{"id":null,"nome":"Spring","categoria":"Programação"},"respostas":[]}
+
+]
